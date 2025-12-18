@@ -1,0 +1,1 @@
+# Jamf-SmartGroup-to-AdvancedSearch
